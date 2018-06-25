@@ -1,4 +1,4 @@
-package in.suren1986.practice.afe;
+package in.suren1986.practice.afe.Chapter1;
 
 import algs4.cs.princeton.edu.StdOut;
 
